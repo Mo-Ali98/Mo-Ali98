@@ -1,4 +1,4 @@
-# Hi there 👋🏾, I'm Mohamed
+# Hi there 👋🏾
 
 ### 🛠 &nbsp;Tech Stack
 
